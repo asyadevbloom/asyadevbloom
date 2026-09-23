@@ -12,3 +12,4 @@ created by following tutorials in Unity 6:
 - [unity-2048-game](https://github.com/asyadevbloom/unity-2048-game) — a classic 2048 game
 - [unity-fruit-ninja-game](https://github.com/asyadevbloom/unity-fruit-ninja-game) - a classic variant of fruit ninja game
 - [unity-wordle-game](https://github.com/asyadevbloom/unity-wordle-game) - a simple version of wordle game
+- [unity-flappy-bird-game](https://github.com/asyadevbloom/unity-flappy-bird-game) - a classic flappy bird game
